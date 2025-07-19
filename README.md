@@ -55,16 +55,17 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Soumodip04/AI-Chat-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumodip04&repo=AI-Chat-Platform&theme=transparent" />
+  <a href="https://github.com/Soumodip04/rag-expert-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumodip04&repo=rag-expert-system&theme=transparent" />
   </a>
-  <a href="https://github.com/Soumodip04/Breast-Cancer-Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumodip04&repo=Breast-Cancer-Classifier&theme=transparent" />
+  <a href="https://github.com/Soumodip04/Research-Works">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumodip04&repo=Research-Works&theme=transparent" />
   </a>
-  <a href="https://github.com/Soumodip04/Realtime-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumodip04&repo=Realtime-Dashboard&theme=transparent" />
+  <a href="https://github.com/Soumodip04">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumodip04&repo=AI-Chatbot&theme=transparent" />
   </a>
 </div>
+
 
 ---
 
@@ -105,5 +106,13 @@
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Soumodip04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 ## 📈 Visitor Count
-![Visitor Count](https://visitcount.itsvg.in/api?id=Soumodip04&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=Soumodip04&label=Profile%20Views&color=blue&style=flat)
